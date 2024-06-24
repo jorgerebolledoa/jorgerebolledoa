@@ -41,10 +41,10 @@
 </div>
 
 ## Proyectos Destacados
-
-- [Guitar Store](https://github.com/jorgerebolledoa/Proyecto-Guitar-Store) - Una pagina de venta de guitarras, con manejo de inventario y diferentes componentes para mostrar los productos de forma llamativa
-- [Repositorio C++](https://github.com/jorgerebolledoa/C-) -Es un repositorio donde encontraras gran parte de mis proyectos,apuntes de clases y ejercicios en C++ 
+- [Repositorio C++](https://github.com/jorgerebolledoa/C-) -Es un repositorio donde encontraras gran parte de mis proyectos, apuntes de clases y ejercicios en C++ 
 ## Contacto
+- [Guitar Store](https://github.com/jorgerebolledoa/Proyecto-Guitar-Store) - Una pagina de venta de guitarras, con manejo de inventario y diferentes componentes para mostrar los productos de forma llamativa
+
 
 ¡Si quieres colaborar en algún proyecto o simplemente charlar sobre tecnología, no dudes en contactarme!
 
