@@ -1,6 +1,6 @@
 # Hola, soy Jorge Rebolledo pero prefiero que me digan Aziel👋
 
-¡Bienvenido a mi perfil de GitHub! Soy un desarrollador apasionado por la tecnología y aquí encontrarás algunos de mis proyectos y áreas de interés.
+¡Bienvenido a mi perfil de GitHub! Soy un desarrollador Full-Stack con mas de un año de experiencia, aqui podras ver que stack manejo
 
 ## Tecnologías y Habilidades
 ### Lenguajes de Programación
@@ -43,7 +43,7 @@
 ## Proyectos Destacados
 
 - [Guitar Store](https://github.com/jorgerebolledoa/Proyecto-Guitar-Store) - Una pagina de venta de guitarras, con manejo de inventario y diferentes componentes para mostrar los productos de forma llamativa
-  
+- [Repositorio C++](https://github.com/jorgerebolledoa/C-) -Es un repositorio donde encontraras gran parte de mis proyectos,apuntes de clases y ejercicios en C++ 
 ## Contacto
 
 ¡Si quieres colaborar en algún proyecto o simplemente charlar sobre tecnología, no dudes en contactarme!
