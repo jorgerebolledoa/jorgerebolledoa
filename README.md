@@ -1,54 +1,112 @@
-# Hola, soy Jorge Rebolledo pero prefiero que me digan Aziel 👋
+# Hola, soy Jorge Rebolledo 👋
 
-¡Bienvenido a mi perfil de GitHub! Soy un desarrollador Full-Stack con más de un año de experiencia. Aquí podrás ver las tecnologías que manejo:
+### Full Stack Software Developer | Technical Leadership
 
-## Tecnologías y Habilidades
+Soy desarrollador Full Stack con experiencia en desarrollo de aplicaciones web y móviles, arquitectura frontend/backend y liderazgo técnico.
 
-### Lenguajes de Programación
+He trabajado en proyectos donde he combinado desarrollo hands-on con planificación, coordinación de equipos, revisión de código, QA, documentación técnica y despliegues en la nube.
+
+Actualmente estoy terminando la carrera de Computación en la Universidad de Santiago de Chile, con interés en desarrollo de software, algoritmos y resolución de problemas.
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+### Lenguajes
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
 </div>
 
-### Frameworks y Bibliotecas
+### Frontend
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Native" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="Tailwind CSS" />
 </div>
 
-### Otros
+### Backend
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" />
 </div>
 
-## Proyectos Destacados
-- [Repositorio C++](https://github.com/jorgerebolledoa/C-) - Este repositorio contiene gran parte de mis proyectos, apuntes de clases y ejercicios en C++.
-- [Guitar Store](https://github.com/jorgerebolledoa/Proyecto-Guitar-Store) - Una página de venta de guitarras, con gestión de inventario y diferentes componentes para mostrar los productos de forma llamativa.
+### Datos, Cloud y herramientas
 
-## Contacto
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
+</div>
 
-¡Si quieres colaborar en algún proyecto o simplemente charlar sobre tecnología, no dudes en contactarme!
+**También:** REST APIs · SQL · Jira · Agile · QA · Code Review · CI/CD · Figma
 
-[LinkedIn](https://www.linkedin.com/in/jorge-aziel-rebolledo-araya-3341a71a2/) | [Correo Electrónico](mailto:aziel.az18@gmail.com)
+
+## 🚀 Proyectos destacados
+
+### C++
+
+[Repositorio C++](https://github.com/jorgerebolledoa/C-)
+
+Repositorio que contiene proyectos, apuntes de clases y ejercicios desarrollados en C++.
+
+### Guitar Store
+
+[Guitar Store](https://github.com/jorgerebolledoa/Proyecto-Guitar-Store)
+
+Aplicación web de venta de guitarras con gestión de inventario y componentes para presentar los productos.
+
+---
+
+## 🎓 Educación
+
+**Universidad de Santiago de Chile (USACH)**  
+Analista en Computación Científica / Licenciatura en Ciencia de la Computación  
+2023 – Presente
+
+Actualmente en proceso de titulación, con tesis en Geometría Computacional con órdenes parciales.
+
+**4Geeks Academy**  
+Full Stack Software Developer  
+2021 – 2022
+
+---
+
+## 🌎 Idiomas
+
+- <img src="https://flagcdn.com/w20/es.png" width="20"> Español — Nativo
+- <img src="https://flagcdn.com/w20/gb.png" width="20"> Inglés — B2
+- <img src="https://flagcdn.com/w20/br.png" width="20"> Portugués — B1
+
+---
+
+## 📫 Contacto
+
+Si quieres conversar sobre desarrollo de software, proyectos o posibles colaboraciones:
+
+[LinkedIn](https://www.linkedin.com/in/jorge-aziel-rebolledo-araya-3341a71a2/)  
+[Correo electrónico](mailto:aziel.az18@gmail.com)
+
